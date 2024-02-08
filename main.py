@@ -5,7 +5,6 @@ pygame.display.set_caption('AN ADVENTURE IN SPACE')
 
 speed = 3
 y_pos = 300
-z_pos= "ApolloIsDumb"
 x_pos = 300
 pas = 0
 
